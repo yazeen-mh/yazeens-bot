@@ -1,5 +1,6 @@
 /* Codded by Phaticusthiccy
 
+
 Eva, The Phaticusthiccy's Multifunctional Artificial Intelligence
 
 Eva AI has more than 50 Gigabyte dataset which including neural calculator,
@@ -281,8 +282,8 @@ if (conf.LANG == 'EN') {
     fulleva_dsc = 'Activates full functional Pinky features. Turn your account into a ai chatbot!'
     already_on = 'Pinky artificial intelligence is already fully functional.'
     already_off = 'Pinky artificial intelligence is currently running semi-functional.'
-    succ_on = 'Pinky Opened Fully Functionally! Please wait a bit! ✅'
-    succ_off = 'Pinky Set to Semi-Functional! Please wait a bit! ☑️'
+    succ_on = 'liyamol Opened Fully Functionally! Please wait a bit! ✅'
+    succ_off = 'liyamol Set to Semi-Functional! Please wait a bit! ☑️'
 }
 if (conf.LANG == 'AZ') {
     fulleva_dsc = 'Tam funksional Eva xüsusiyyətlərini aktivləşdirir. Hesabınızı bir chatbot halına gətirin!'
